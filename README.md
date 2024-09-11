@@ -1,11 +1,6 @@
 # Bioinformatics_Diploma_NGS_Course_EBI_Pipeline
-Sure, I’ve revised the `README.md` file to ensure clarity and consistency. Here’s an improved version:
-
 ```markdown
 # EBI Pipeline
-
-This repository provides a comprehensive pipeline for processing sequencing data using various bioinformatics tools. Follow the steps below to successfully download, process, and visualize your sequencing data.
-
 ## Prerequisites
 
 Ensure you have the following tools installed:
@@ -158,5 +153,4 @@ ktImportText SRR5903765_ssu.txt -o SRR5903765_ssu_output.html
 ktImportText SRR5903765_lsu.txt -o SRR5903765_lsu_output.html
 ```
 ```
-
-This revised version includes improved formatting and consistency, making the steps clearer and more organized. If you have any additional details or specific instructions to include, let me know!
+Thanks !
