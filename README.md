@@ -1,0 +1,1 @@
+# Bioinformatics_Diploma_NGS_Course_EBI_Pipeline
